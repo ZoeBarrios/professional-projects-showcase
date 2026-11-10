@@ -77,7 +77,7 @@ Trabajo como desarrolladora en sistemas de gestión empresariales, participando 
 
 📍 Argentina  
 🔗 [LinkedIn](https://www.linkedin.com/in/zoe-nazarena-barrios-55119525a/)  
-🌐 [Portfolio](https://portfolio-2025-barrios.vercel.app/)
+🌐 [Portfolio](https://zoemb.site/)
 
 ---
 
